@@ -3,7 +3,7 @@
     <v-navigation-drawer app v-model="drawer"> メニュー </v-navigation-drawer>
     <v-app-bar color="#0182D1" app>
       <v-app-bar-nav-icon @click.stop="toggleDrawer" />
-      <v-toolbar-title>CREiST年末勉強会</v-toolbar-title>
+      <v-toolbar-title>CREiST年末勉強会2</v-toolbar-title>
       <v-spacer />
 
       <v-menu offset-y>
